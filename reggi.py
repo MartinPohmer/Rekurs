@@ -5,3 +5,4 @@ def print_lvl(liste):
             print_lvl(element)
         else:
             print(element)
+            print('**********************')
